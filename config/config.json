@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xCf9cd114470F3a297Bebc4eDbE21559bdbde6C52",
-  "SCAN_LINK": "https://polygonscan.com/token/0xCf9cd114470F3a297Bebc4eDbE21559bdbde6C52",
+  "CONTRACT_ADDRESS": "0xc97F2073f93CaAAD39990B2f2f2Bfd2BF7291780",
+  "SCAN_LINK": "https://etherscan.io/address/0xc97f2073f93caaad39990b2f2f2bfd2bf7291780",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "MetaPunks",
+  "SYMBOL": "MP",
+  "MAX_SUPPLY": 9000,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metapunks-deployer",
   "SHOW_BACKGROUND": true
 }
